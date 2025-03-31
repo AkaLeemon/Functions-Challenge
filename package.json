@@ -1,0 +1,26 @@
+{
+  "name": "functions-challenge",
+  "version": "1.0.0",
+  "description": "Kia ora and welcome! 🎉 Today, you’ll be exploring **JavaScript functions** through a series of coding challenges.",
+  "main": "functions.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NGEN-Room/Functions-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NGEN-Room/Functions-Challenge/issues"
+  },
+  "homepage": "https://github.com/NGEN-Room/Functions-Challenge#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
